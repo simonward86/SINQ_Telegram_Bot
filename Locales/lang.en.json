@@ -1,0 +1,6 @@
+{
+  "0": "/help \n/start",
+  "1": "Conneced to %s",
+  "2": "Failed to connect to %s. Try again",
+  "3": "/help /start <machine>\n/cmd <command>"
+}
